@@ -16,4 +16,15 @@
     <!-- Error messages -->
     <string name="error_fragment_message">An error occurred</string>
     <string name="dismiss_error">Dismiss</string>
+
+    <!-- Wizard messages -->
+    <string name="wizard_welcome_title">Wizard</string>
+    <string name="wizard_intsto_title">Internal Storage</string>
+    <string name="wizard_ftpsto_title">FTP Storage</string>
+    <string name="wizard_finish_title">Setup completed</string>
+    <string name="wizard_welcome_desc">A different File Explorer</string>
+    <string name="wizard_intsto_desc">Show Internal Storage info</string>
+    <string name="wizard_ftpsto_desc">Configure a FTP Storage account</string>
+    <string name="wizard_finish_desc">Time to explore!</string>
+    <string name="wizard_init">Init</string>
 </resources>
